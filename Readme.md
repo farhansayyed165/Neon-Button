@@ -9,5 +9,5 @@
     <div><img width=887px height=544px src="https://github.com/farhansayyed165/Neon-Button/blob/main/images/Screenshot%20(149).png" alt=""></img></div>
     <br>
     <h3 align="left">After Hover</h3>
-    <img width=720px height=576px src="https://github.com/farhansayyed165/Neon-Button/blob/main/images/Screenshot%20(150).png" alt="">
+    <img width=887px height=544px src="https://github.com/farhansayyed165/Neon-Button/blob/main/images/Screenshot%20(150).png" alt="">
 </div>
