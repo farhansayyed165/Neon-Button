@@ -43,7 +43,8 @@ body{
 
 
 
-#neon_button:hover{
+#neon_button:hover,
+#neon_button:focus{
     color: var(--clr-dark-neon);
     background: var(--clr-light-neon);
     box-shadow: 0 0 1.2em var(--clr-light-neon),0 0 1.6px var(--clr-light-neon),0 0 1.8em var(--clr-light-neon);   
